@@ -96,5 +96,6 @@ class RedactingFormatter(logging.Formatter):
         return txt
 
 
+
 if __name__ == "__main__":
     main()
